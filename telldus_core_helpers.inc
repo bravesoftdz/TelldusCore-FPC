@@ -1,0 +1,5 @@
+{$MODESWITCH AdvancedRecords}
+{$IFDEF FPC}
+  {$PACKRECORDS C}
+{$ENDIF}
+{$INLINE ON}
